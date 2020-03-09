@@ -39,4 +39,4 @@ ThinRPlugin is licensed under the MIT license
 
 
 
-In case of using the issue to the wangzhi@meili-inc.com please!
+In case of using the issue to the eclowang@gmail.com please!
