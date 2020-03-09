@@ -33,6 +33,6 @@ ThinRPlugin is licensed under the MIT license
 
 
 
-如遇使用问题，请@往之  wangzhi@meili-inc.com
+如遇使用问题，请@ eclowang@gmail.com
 
 
